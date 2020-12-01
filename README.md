@@ -16,4 +16,4 @@
 
 <br/>
 
-[![Aathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxmeronmcgregoramed&show_icons=true)](https://github.com/cxmeronmcgregor)
+[![Aathik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxmeronmcgregor&show_icons=true)](https://github.com/cxmeronmcgregor)
